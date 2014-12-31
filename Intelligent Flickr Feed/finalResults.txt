@@ -1,0 +1,76 @@
+Kevin:
+PROBABILISTIC MODEL
+Percentage of likes: 0.8
+Percentage of likes over time: 0.6, 0.7, .867, .85, .84, .833, .83
+Likes: 28
+Images: 35
+
+PROBABILISTIC MODEL
+Percentage of likes: 0.6078
+Percentage of likes over time: 0.4, 0.4, 0.467, 0.5, 0.52, 0.533, 0.6, 0.6, 0.622, 0.62
+Likes: 31
+Images: 51
+
+PROBABILISTIC MODEL
+Percentage of likes: 0.627
+Percentage of likes over time: 0.4, 0.4, 0.533, 0.6, 0.56, 0.6, 0.629, 0.625, 0.644, 0.64
+Likes: 32
+Images: 51
+
+RANDOM MODEL
+Percentage of likes: 0.5806
+Percentage of likes over time: 0.8, 0.8, 0.6, 0.6, 0.6, 0.6
+Likes: 18
+Images: 31
+
+RANDOM MODEL
+Percentage of likes: 0.556
+Percentage of likes over time: 0.6, 0.6, 0.6, 0.5, 0.56, .556
+Likes: 15
+Images: 27
+
+RANDOM MODEL
+Percentage of likes: 0.490
+Percentage of likes over time: 0.2, 0.3, 0.4, 0.45, 0.48, 0.533, 0.514, 0.525, 0.489
+Likes: 24
+Images: 49
+
+Laurel:
+PROBABILISTIC MODEL
+Percentage of likes: 0.467
+Percentage of likes over time: 0.2, 0.5, .533, .5, .48, .467
+Likes: 14
+Images: 30
+
+RANDOM MODEL
+Percentage of likes: 0.556
+Percentage of likes over time: 0.8, 0.5, 0.533, 0.5, 0.52, 0.567
+Likes: 17
+Images: 30
+
+Julius:
+PROBABILISTIC MODEL
+Percentage of likes: 0.565
+Percentage of likes over time: 0.4, 0.5, 0.533, 0.55, 0.565
+Likes: 13
+Images: 23
+
+RANDOM MODEL
+Percentage of likes: 0.471
+Percentage of likes over time: 0.4, 0.5, 0.4, 0.35, 0.4, 0.433, 0.471
+Likes: 16
+Images: 34
+
+CLUSTER ALGORITHM
+
+PROBABILISTIC MODEL
+Percentage of likes: 0.549
+Percentage of likes over time: 0.4, 0.4, 0.4, 0.45, 0.44, 0.5, 0.486, 0.525, 0.533, 0.56
+Likes: 28
+Images: 51
+
+CLUSTER MULTIPLIER
+Percentage of likes: 0.6909
+Percentage of likes over time: 0.4, 0.5, 0.667, 0.6, 0.6, 0.633, 0.629, 0.65, 0.689, 0.7, 0.69
+Likes: 38
+Images: 55
